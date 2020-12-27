@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title:Sócio-proprietário  
-    company:Comercial São Pedro de Produtos Agrícolas Ltda. 
+  - title: Sócio-proprietário  
+    company: Comercial São Pedro de Produtos Agrícolas Ltda. 
     company_url: ''
     location: Pedralva-MG
     date_start: Abril de 1993
