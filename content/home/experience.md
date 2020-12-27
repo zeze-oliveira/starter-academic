@@ -36,7 +36,7 @@ experience:
     location: Pedralva-MG
     date_start: 'Fevereiro de 1990'
     date_end: 'Feveriro de 2004'
-    description:Assistência técnica e extensão rural a produtores de café, cereais, frutas e hortaliças no município de Pedralva.
+    description: Assistência técnica e extensão rural a produtores de café, cereais, frutas e hortaliças no município de Pedralva.
 
 
   - title: RTV
@@ -45,7 +45,7 @@ experience:
     location: Alfenas-MG
     date_start: 'Marco de 2004'
     date_end: 'Dezembro de 2011'
-    description:Responsável técnico comercial, gerenciamento carteira de clientes, assistência técnica aos clientes.
+    description: Responsável técnico comercial, gerenciamento carteira de clientes, assistência técnica aos clientes.
     
   - title: Coffee Hunter
     company: Carmocoffees
@@ -53,7 +53,7 @@ experience:
     location: Carmo de Minas - MG
     date_start: 'Janeiro de 2012'
     date_end: 'Dezembro de 2015'
-    description:Captação de de cafés especiais, treinamento a produtores nos manejos para produzir cafés especiais, classificação e prova de café, gerenciamento do Centro de Processamento de Cafés Especias Pedra Branca.
+    description: Captação de de cafés especiais, treinamento a produtores nos manejos para produzir cafés especiais, classificação e prova de café, gerenciamento do Centro de Processamento de Cafés Especias Pedra Branca.
     
   - title: RTV
     company: AGRO CP Ind. e Comércio de Fertilizantes Ltda.
@@ -62,8 +62,6 @@ experience:
     date_start: 'Fevereiro de 2016'
     date_end: 'Em atividade'
     description: Responsável técnico comercial, consultoria em manejos pós colheita visando a produção de cafés especiais, treinamento a produtores através de palestras técnicas.
-
-
 
 
 
