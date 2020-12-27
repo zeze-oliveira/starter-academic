@@ -14,26 +14,22 @@ role: Engenheiro Agrônomo
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Engenheiro agrônomo com ampla experiência em produção de cafés especiais
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Agricultura regenerativa
+- Produção de cafés especiais
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Pós-graduação em fitopatologia
+    institution: Universidade Federal de Lavras
+    year: 2000
+  - course: Engenharia Agronômica
+    institution: Escola Superior de Agricultura de Lavras
+    year: 1985
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,4 +60,4 @@ email: "jcpedralva@gmail.com"
 highlight_name: false
 ---
 
-Engenheiro Agrônomo formado pela Escola Superior de Agricultura de Lavras em 1985. Filho de produtor rural, trabalho com café desde a juventude. Trabalhei com assistência técnica agronômica por 15 anos na Prefeitura de Pedralva, sócio proprietário da empresa Comercial São Pedro de Produtos Agrícolas no período de 1993 a 2007, RTV na Café Brasil durante o período de 2004 a 2011, Coffe Hounter e em seguida gerente de Centro de Processamento de café na empresa carmocoffees no periodo de 2012 a 2015 e atualmente RTv na empresa AgroCP e exercendo a função de consultor em Manejos para produção de cafés especiais. 
+Engenheiro Agrônomo formado pela Escola Superior de Agricultura de Lavras em 1985. Filho de produtor rural, trabalho com café desde a juventude. Trabalhei com assistência técnica agronômica por 15 anos na Prefeitura de Pedralva, sócio proprietário da empresa Comercial São Pedro de Produtos Agrícolas no período de 1993 a 2007, RTV na Café Brasil durante o período de 2004 a 2011, Coffee Hunter e  gerente de Centro de Processamento de café especiais na empresa Carmocoffees no periodo de 2012 a 2015 e atualmente RTV na empresa AgroCP e exercendo a função de consultor em Manejos para produção de cafés especiais. 
