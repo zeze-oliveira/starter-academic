@@ -30,6 +30,39 @@ experience:
     date_end: '2007-12-01'
     description: Responsável técnico, gerenciava a compra e venda de produtos agrícolas.
 
+  - title: Engenheiro Agrônomo
+    company: Prefeitura Municipal de Pedralva
+    company_url: ''
+    location: Pedralva-MG
+    date_start: '1990-02-01'
+    date_end: '2004-02-01'
+    description: Assistência técnica e extensão rural a produtores de café, cereais, frutas e hortaliças no município de Pedralva.
+
+
+  - title: RTV
+    company: Café Brasil Ind. e Comércio de Fertilizantes Ltda
+    company_url: 'www.cafebrasil.ind.br'
+    location: Alfenas-MG
+    date_start: '2004-03-01'
+    date_end: '2011-12-01'
+    description: Responsável técnico comercial, gerenciamento carteira de clientes, assistência técnica aos clientes.
+    
+  - title: Coffee Hunter
+    company: Carmocoffees
+    company_url: 'www.carmocoffees.com.br'
+    location: Carmo de Minas - MG
+    date_start: '2012-01-01'
+    date_end: '2015-12-01'
+    description: Captação de de cafés especiais, treinamento a produtores nos manejos para produzir cafés especiais, classificação e prova de café, gerenciamento do Centro de Processamento de Cafés Especias Pedra Branca.
+    
+  - title: RTV
+    company: AGRO CP Ind. e Comércio de Fertilizantes Ltda.
+    company_url: 'http:/agrocp.agr.br/site/'
+    location: Três Pontas-MG
+    date_start: '2016-02-01'
+    date_end: ''
+    description: Responsável técnico comercial, consultoria em manejos pós colheita visando a produção de cafés especiais, treinamento a produtores através de palestras técnicas.
+
 
 
 ---
