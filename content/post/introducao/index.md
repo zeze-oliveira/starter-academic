@@ -1,6 +1,6 @@
 ---
 title: A importância do boro
-date: "2020-12-27"
+date: "27/12/2020"
 ---
 
 Este é o meu primeiro post
