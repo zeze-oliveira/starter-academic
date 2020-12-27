@@ -64,4 +64,4 @@ email: "jcpedralva@gmail.com"
 highlight_name: false
 ---
 
-Engenheiro Agrônomo....
+Engenheiro Agrônomo formado pela Escola Superior de Agricultura de Lavras em 1985. Filho de produtor rural, trabalho com café desde a juventude. Trabalhei com assistência técnica agronômica por 15 anos na Prefeitura de Pedralva, sócio proprietário da empresa Comercial São Pedro de Produtos Agrícolas no período de 1993 a 2007, RTV na Café Brasil durante o período de 2004 a 2011, Coffe Hounter e em seguida gerente de Centro de Processamento de café na empresa carmocoffees no periodo de 2012 a 2015 e atualmente RTv na empresa AgroCP e exercendo a função de consultor em Manejos para produção de cafés especiais. 
