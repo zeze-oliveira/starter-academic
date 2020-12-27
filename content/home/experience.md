@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Pedralva-MG
     date_start: Abril de 1993
-    date_end: ''Dezembro de 2007
+    date_end: 'Dezembro de 2007'
     description: Responsável técnico, gerenciava a compra e venda de produtos agrícolas.
 
   - title: Engenheiro Agrônomo
