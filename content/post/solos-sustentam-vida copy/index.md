@@ -2,7 +2,7 @@
 title: Construindo a Ponte Microbiana para a Saúde do Solo.
 date: "2020-12-28"
 ---
-A zona das raizes ao redor das plantas, conhecida como rizosfera, é uma área de intensa atividade no solo. É muito parecido com o
+A zona das raízes ao redor das plantas, conhecida como rizosfera, é uma área de intensa atividade no solo. É muito parecido com o
 lanche na feira estadual em um dia quente. Todo mundo está aglomerado tentando chegar nas bebidas frias, funil bolos e cachorros-
 quentes. Os lanches estão sendo vendidos o mais rápido que os trabalhadores podem produzi-los. Em troca, a lanchonete está
 recebendo muito dinheiro.
