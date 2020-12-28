@@ -3,7 +3,7 @@ title: Os Solos sustentam a vida.
 date: "2020-12-28"
 ---
 
-Os solos sustentam a vida, mas seu futuro é "sombrio" de acordo com a ONU* 
+Os solos sustentam a vida, mas seu futuro é "sombrio" de acordo com a ONU.
 
 A formação do solo leva milhares de anos, o que significa que a proteção é urgentemente necessária, dizem os cientistas.
 
