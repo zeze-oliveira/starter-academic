@@ -266,7 +266,7 @@ plugins_js  = []
 ############################
 [marketing]
   google_analytics = ""
-  google_tag_manager = ""
+  google_tag_manager = "G-2QBDSJBNK7"
 
 ############################
 ## Content Management System
