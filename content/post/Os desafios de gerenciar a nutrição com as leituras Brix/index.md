@@ -4,8 +4,7 @@ title: Os desafios de gerenciar a nutrição com as leituras Brix.
 date: "2021-01-05"
 # Mude de false para true para mostrar essa pagina
 
----
-Os desafios de gerenciar a nutrição com as leituras Brix. 
+--- 
 
 John Kempf
 
