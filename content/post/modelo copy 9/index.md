@@ -3,7 +3,7 @@
 title: Usando o boro para acelerar a maturidade natural e a senescência.
 date: "2021-01-06"
 # Mude de false para true para mostrar essa pagina
-draft: true
+
 ---
 
 Uma das características conhecidas pelo boro é facilitar o transporte rápido de nutrientes para os sumidouros de açúcar. Esse efeito pode ser muito valioso para acelerar a maturidade e a senescência das culturas, além de aumentar a qualidade da colheita.
