@@ -1,6 +1,6 @@
 ---
 # Preencha o título
-title: * 05 de dezembro, dia Mundial do Solo*
+title: 05 de dezembro, dia Mundial do Solo
 date: "2020-01-05"
 # Mude de false para true para mostrar essa pagina
 
