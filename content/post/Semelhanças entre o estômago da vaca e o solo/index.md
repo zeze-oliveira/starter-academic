@@ -3,7 +3,7 @@
 title: Semelhanças entre o estômago da vaca e o solo.
 date: "2021-01-11"
 # Mude de false para true para mostrar essa pagina
-draft: true
+
 ---
 
 O rúmen(estômago da vaca) é praticamente um barril de fermentação e para funcionar bem o estômago do ruminante requer minerais, água e matéria orgânica na forma de alimentos, Os micro-organismos no estômago da vaca tornam o alimento digerível e sem eles a vaca não consegue absorver nutrientes. Pois é um sistema biológico, você tem que equilibrar o que entra nele. Você não pode violar os princípios de uma vaca, alimentando-a com grãos demais, a vaca ficará doente. Para manter a vaca saudável e com bom desempenho, você precisa alimentá-la com um equilíbrio de fibras, proteínas, amido e minerais.
