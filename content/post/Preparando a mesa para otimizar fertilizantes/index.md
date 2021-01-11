@@ -3,7 +3,6 @@
 title: PREPARANDO A MESA PARA OTIMIZAR FERTILIZANTES, ALTERAÇÕES DE SOLO.
 date: "2021-01-11"
 # Mude de false para true para mostrar essa pagina
-draft: true
 ---
  
 
