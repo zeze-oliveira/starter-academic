@@ -19,9 +19,9 @@ A fertilidade superior começa com solos que “bebem água” - não aqueles qu
 
 Folhas de milho
 A fertilidade do solo afeta diretamente a qualidade e o rendimento de suas colheitas.
-Há algo que os produtores podem fazer em relação aos solos pobres? Você está preso a esse solo se um programa geral de fertilidade não for suficiente para resolver o problema? Embora grande parte da agricultura pareça implicar que esta é a única escolha real (porque o agricultor ou agricultor é informado que é muito caro corrigir o solo), esse não precisa ser o caso.
+Há algo que os produtores podem fazer em relação aos solos pobres? Você está preso a esse solo se um programa geral de fertilidade não for suficiente para resolver o problema? Embora grande parte da agricultura pareça implicar que esta é a única escolha real (porque o agricultor é informado que é muito caro corrigir o solo), esse não precisa ser o caso.
 
-Adicionar materiais carbonáceos, cultivar plantas de cobertura, usar compostos e adubos e outros métodos de conservação pode ajudar, mas se algum desses for considerado a chave inicial para o sucesso duradouro, é como o velho ditado sobre "colocar a carroça antes dos bois".
+Adicionar materiais carbonáceos, cultivar plantas de cobertura, usar compostos e adubos e outros métodos de conservação pode ajudar, mas se algum desses for considerado a chave inicial para o sucesso duradouro, é como o velho ditado sobre "colocar a carroça na frente dos bois".
 
 O lugar para começar é considerar e lidar com a “ciência” do solo o mais rápido possível. Isso significa fornecer exatamente o ambiente certo para os organismos do solo, de micróbios a minhocas, e todos os outros organismos que trabalham para alimentar a planta. Os cientistas do solo dizem que essa vida no solo é equivalente ao peso de uma vaca de tamanho médio no solo sob cada acre de solo. Esta vida no solo come primeiro e as plantas que estamos cultivando então podem escolher o que resta.
 
