@@ -3,7 +3,7 @@
 title: INDICADORES DE SAÚDE DO SOLO
 date: "2021-01-25"
 # Mude de false para true para mostrar essa pagina
-INDICADORES DE SAÚDE DO SOLO
+
 ---
 
 O Serviço de Conservação de Recursos Naturais do USDA define a saúde do solo como a “capacidade contínua do solo de funcionar como um ecossistema vivo vital que sustenta plantas, animais e humanos”. A saúde do solo é complexa e dinâmica, o que significa que um solo saudável pode ter uma aparência diferente em diferentes regiões e sistemas de cultivo. Vários indicadores de saúde do solo diferentes podem ser úteis para rastrear como o solo responde ao manejo e medir a saúde do solo no campo e no laboratório.
