@@ -1,7 +1,6 @@
 ---
 # Preencha o título
-title: SOLO SUSTENTÁVEL:QUATRO REGRAS PARA CONTROLE DE
-INSUMOS ORGÂNICOS.
+title: QUATRO REGRAS PARA CONTROLE DE INSUMOS ORGÂNICOS.
 date: "2021-01-28" 
 # Mude de false para true para mostrar essa pagina
 
