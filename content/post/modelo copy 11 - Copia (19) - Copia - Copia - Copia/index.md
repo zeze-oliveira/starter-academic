@@ -1,7 +1,28 @@
 ---
 # Preencha o título
-title: TITULO
-date: "2020-12-31"
+title: CAFEICULTURA SUSTENTÁVEL.
+date: "2021-03-04"
 # Mude de false para true para mostrar essa pagina
-draft: true
+
 ---
+Os sistemas convencionais  de produção de café, expõem os grãos de café e o solo à radiação ultravioleta, altas temperaturas e chuvas fortes. As plantações de café convencionais também diminuem drasticamente a biodiversidade circundante e deslocam a vida selvagem, aumentam a incidência de pragas e doenças e exigem o uso pesado de fertilizantes sintéticos e produtos químicos agrícolas prejudiciais para sua manutenção, contaminando lençol freático, contaminando os trabalhadores e prejudicando a flora e a fauna. Segundo algumas estimativas, os especialistas preveem que haverá falta de terras férteis para a agricultura nos próximos 60 anos. 
+
+É hora de ir além da ideia de café sustentável. Sustentar algo pressupõe que o que temos já é bom o suficiente. No entanto, vários estudos têm mostrado que, se o setor cafeeiro não mudar sua abordagem atual de “negócios como de costume”, não teremos café de qualidade no futuro. E isso vai prejudicar a todos que atualmente se beneficiam do setor - desde os fazendeiros na origem até o consumidor de cafeteria que aprecia sua especialidade de um paraíso tropical distante. Os torrefadores terão menos café para vender e os consumidores terão menos opções. Enquanto isso, centenas de milhares de agricultores em todo o mundo precisarão encontrar soluções econômicas alternativas para suas famílias, seja em suas fazendas ou migrando para outro lugar. Em suma, sustentando o café da forma como é produzido hoje acabará levando ao fracasso em toda a indústria cafeeira, principalmente na produção de  cafés especiais. 
+
+Não temos que nos contentar em manter o status quo. Em vez disso, podemos fazer um movimento afirmativo em direção ao café regenerativo . Você já deve ter se deparado com o termo moderno "agricultura regenerativa", que na verdade existe há décadas e tem um tema central:  solo saudável . Recentemente, o 2018 Natural Products Expo West , com seus 85.000 participantes, destacou os produtos da agricultura regenerativa durante todo o evento. Empresas de porte considerável, como a Annie's Homegrown (comprada pela General Mills por US $ 840 milhões em 2014), buscam fontes junto a agricultores que implementam práticas de agricultura regenerativa  por meio de um sistema agrícola que prioriza o solo.
+
+A ideia de regeneração neste contexto (e é isso que a diferencia da sustentabilidade) é que as práticas agrícolas podem construir o solo, deixando-o mais saudável do que antes. Em outras palavras, a agricultura regenerativa transforma a sujeira em solo saudável . 
+
+Solo saudável é essencial para a produção de café. A corrida para desenvolver e disseminar novas variedades de café que sejam mais resistentes aos choques climáticos e tenham os perfis de sabor que os consumidores exigem é crítica (veja o importante trabalho realizado pela World Coffee Research ); no entanto, esse esforço só pode atingir seu pleno potencial com um foco complementar no manejo do solo. 
+
+Um solo saudável é bom para os negócios. Produzirá  café de mais qualidade, cafeicultores prósperos e cadeias de abastecimento robustas.  É bom para os agricultores e é bom para os consumidores. Um solo saudável nas fazendas de café também leva a produzir mais água e mais limpa para as comunidades que vivem rio abaixo (conforme discutido em Blue Harvest posts Green Water in Practice , We All Drink Downstream ). Também cria maior biodiversidade, acima e abaixo do solo.
+
+Em outras palavras, a cafeicultura sustentável é uma abordagem de redução de danos - um primeiro passo crucial no caminho para a criação de um sistema geral que realmente aumenta a riqueza da natureza. Um cafeicultor pode começar reduzindo os insumos externos como pesticidas, por exemplo, e, eventualmente, melhorar a saúde de sua terra de forma que muitos pesticidas não sejam necessários. Quando as medidas para enriquecer a terra - como consorciar o plantio de bananas com o café para proteger a lavoura contra o sol e ventos e nutrir os solos - são aplicadas em todas as frentes, você tem uma fazenda regenerativa.
+
+A consorciação da lavoura de café com outras culturas é uma abordagem dinâmica e ecológica do manejo de recursos naturais que promove a integração de diversos alimentos, forragens, madeira e árvores de sombra em paisagens agrícolas. Uma vez instalados, os sistemas bem mantidos requerem poucos insumos como fertilizantes e agroquímicos e são naturalmente resistentes a pragas e doenças, reduzindo assim os custos e a mão de obra dos cafeicultores.
+
+Em suma, temos a oportunidade de regenerar milhões de hectares de terra que ajudarão milhões de agricultores e suas famílias a ganhar uma vida melhor, produzindo mais e melhor café. Essa é uma das melhores chances que temos de garantir um suprimento de café de qualidade, apesar da ameaça das mudanças climáticas. Precisamos (todos nós) fazer um compromisso proposital com a regeneração se quisermos criar a mudança e os resultados que buscamos.
+
+Não poderia deixar de citar a cafeicultura na Mantiqueira de Minas. A paisagem das serras da Mantiqueira de Minas, onde prospera a cafeicultura, onde a produção de cafés especiais é referência, poderemos observar grandes áreas de café, consorciadas com bananas, oliveiras, citros,  olericultura, cereais e tantas outras culturas. Poderemos conferir produtores usando menos fertilizantes, menos produtos químicos e colhendo cafés de melhor qualidade. 
+
+"Sustentabilidade: é a coisa certa a se fazer, é a coisa inteligente a se fazer, é a coisa lucrativa a se fazer." -  Hunter Lovins.
