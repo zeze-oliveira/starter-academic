@@ -1,11 +1,11 @@
 ---
 # Preencha o título
-title: MICORRIZES NA AGRICULTURA, USOS E BENEFÍCIOS.
+title: MICORRIZAS NA AGRICULTURA, USOS E BENEFÍCIOS.
 date: "2021-03-01"
 # Mude de false para true para mostrar essa pagina
 
 --- 
-Para um conceito de solo vivo e para microbiologistas de solos, a verdade é que o uso de micorrizas é fundamental. Quero apresentar a vocês alguns colegas da mcirobiota do solo que têm uma associação de 450 milhões de anos com plantas que são componentes fundamentais de todos os solos, que são os primeiros colonizadores de solos e são os mais adequados para iniciar este solo vivo que corresponde às micorrizas .
+Para um conceito de solo vivo e para microbiologistas de solos, a verdade é que o uso de micorrizas é fundamental. Quero apresentar a vocês alguns colegas da microbiota do solo que têm uma associação de 450 milhões de anos com plantas que são componentes fundamentais de todos os solos, que são os primeiros colonizadores de solos e são os mais adequados para iniciar este solo vivo que corresponde às micorrizas .
 
  
 
