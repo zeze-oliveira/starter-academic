@@ -8,8 +8,7 @@ date: "2021-01-05"
 
 
 
-Fonte:   http://www.theatlantic.com/health/archive/2013/06/healthy-soil-microbes-healthy-people/276710/
-
+  
 A comunidade microbiana no solo é tão importante quanto a comunidade.
 
  *Mike Amaranthus e Bruce Allyn.* 
@@ -54,4 +53,6 @@ Felizmente, agora existe um forte argumento comercial para a reintrodução de m
 
 Por todas essas razões, os produtos de bio fertilidade são agora uma indústria de US $ 500 milhões e estão crescendo rapidamente. As principais empresas químicas agrícolas, como Bayer, BASF, Novozymes, Pioneer e Syngenta, estão agora vendendo, adquirindo ou desenvolvendo ativamente esses produtos.
 
-A reintrodução de microrganismos no solo, juntamente com a matéria orgânica em que se alimentam, tem o potencial de ser uma parte essencial da próxima grande revolução na saúde humana - o desenvolvimento de agricultura sustentável e segurança alimentar com base na saúde restaurada do solo. Assim como no microbioma humano, as drogas do solo do futuro são aquelas cheias de germes amigáveis ​​e os alimentos que eles gostam de comer
+A reintrodução de microrganismos no solo, juntamente com a matéria orgânica em que se alimentam, tem o potencial de ser uma parte essencial da próxima grande revolução na saúde humana - o desenvolvimento de agricultura sustentável e segurança alimentar com base na saúde restaurada do solo. Assim como no microbioma humano, as drogas do solo do futuro são aquelas cheias de germes amigáveis ​​e os alimentos que eles gostam de comer.
+
+ http:Fonte: //www.theatlantic.com/health/archive/2013/06/healthy-soil-microbes-healthy-people/276710/
